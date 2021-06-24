@@ -1,5 +1,5 @@
-#Case: Titanic.
-# Case: DATA Analysis Titanic
+
+# Case: BTC PRICE PREDICTION
 This data analysis case was developed as result of the class *ETL Fundamentals with Python*  from the bootcamp [CARREFOUR BANK DATA ENGINEER](https://web.digitalinnovation.one/track/banco-carrefour-data-engineer) from [Digital Innovation One](https://digitalinnovation.one).
 
 # Description
